@@ -14,7 +14,34 @@
       "id": 3,
       "name": "Sansumg S20+",
       "price": 5000.89
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "Panmela",
+      "price": "2300",
+      "id": 9
     }
-    
   ]
 }
